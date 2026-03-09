@@ -19,7 +19,7 @@ printf("Digite o PIB: ");
 scanf("%f", &pib);
 printf("Digite o numero de pontos turisticos: ");
 scanf("%d", &pontosTuristicos);
-printf("\nCarta cadastrada!\n);
+printf("\nCarta cadastrada!\n");
   printf("Estado: %s\n", estado);
   printf("Cidade: %s\n", cidade);
 return 0;
